@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏽 About Me:
 Primarily a BACKEND developer with experience in "JavaScript", "Node.js", "C#", "Python", "Dart".<br>Also skilled in FRONTEND development using CSS, React.js, Flutter, Swift.<br><br>Uses tools to create custom scenarios in video games, such as with Bohemia Interactive's games "Arma" or "Dayz", <br> utilizing "SQF syntax" or "Enforce Script". Also develops small games from scratch in Unity, with 3D models created using Blender.
 
 
