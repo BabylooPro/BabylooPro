@@ -1,5 +1,13 @@
 # 👋🏽 About Me:
-Primarily a BACKEND developer with experience in "JavaScript", "Node.js", "C#", "Python", "Dart".<br>Also skilled in FRONTEND development using CSS, React.js, Flutter, Swift.<br><br>Uses tools to create custom scenarios in video games, such as with Bohemia Interactive's games "Arma" or "Dayz", <br> utilizing "SQF syntax" or "Enforce Script". Also develops small games from scratch in Unity, with 3D models created using Blender.
+Since 2015, my passion for video games has led me to create customized scenarios. I've used my talent to enrich iconic games such as Bohemia Interactive's ArmA or DayZ. Learning the SQF Syntax and Enforce Script has enabled me to imagine and create captivating and unique universes, just like in Grand Theft Auto 5 with LUA provided by Rockstar.
+
+My development career truly began in 2016-2017, with an initial specialization in C#. My creativity is not limited to coding. I also design small video games from scratch using Unity, guided solely by my imagination. For the design of 3D models needed for these projects, I use Blender. This creative process is a great source of satisfaction and fulfillment for me.
+
+In 2020, I took a new step by becoming a FREELANCE FULLSTACK developer with a specialization in BACKEND. Over the years, I have been able to build solid expertise in handling various programming languages, such as JavaScript, Node.js and Python. This experience has laid the solid foundations that allow me to be the accomplished professional I am today.
+
+It was also during this period that I strengthened my FRONTEND development skills. I master advanced technologies like CSS, React.js, Flutter, and Swift, which allows me to design complete and customized solutions for my clients.
+
+Whether in video game design, BACKEND, or FRONTEND development, my goal always remains the same: to create innovative solutions that meet my clients needs and add significant value to their projects. I hope to have the opportunity to show you how I can make a difference for you.
 
 
 # 💻 Tech Stack:
