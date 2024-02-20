@@ -1,6 +1,4 @@
-# Max Remy 🧑🏽‍💻
-
-## About Me 👋🏼
+# About Me 👋🏼🧑🏽‍💻
 
 FullStack Developer with over 8 years of experience, Specialized in Backend development while having a solid experience in Frontend, I am constantly looking for new challenges to improve and innovate in my projects. My passion for video games has led me to explore and contribute to various open-source tools, thus enriching my technical skills and understanding of software development.
 
